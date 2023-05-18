@@ -36,14 +36,14 @@
   font-size: 1rem;
   font-family: inherit;
   cursor: pointer;
-  background-color: #fda421;
+  background-color: #fda421;  
   color: white;
   border: 2px solid transparent;
 }
 
 .login_button:hover {
-  border: 2px solid #fda421;
-  background-color: rgb(66, 164, 67);
+  border: 4px solid #fda421;
+  background-color: black;
 }
 
 .link_container {

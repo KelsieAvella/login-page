@@ -1,9 +1,6 @@
 import React, { useState } from "react";
 import "./LoginForm.css";
 import Card from "../Card/Card";
-import GoogleIcon from "@mui/icons-material/Google";
-import FacebookIcon from "@mui/icons-material/Facebook";
-import TwitterIcon from "@mui/icons-material/Twitter";
 import { database } from "../../utils/database";
 
 const LoginForm = ({ setIsLoggedIn }) => {
@@ -87,13 +84,7 @@ const LoginForm = ({ setIsLoggedIn }) => {
       </form>
       <div className="link_container">
         <a href="" className="small">
-          Forgot Password?
         </a>
-      </div>
-      <div className="icons">
-        <GoogleIcon className="icon" />
-        <FacebookIcon className="icon" />
-        <TwitterIcon className="icon" />
       </div>
     </Card>
   );

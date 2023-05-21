@@ -45,17 +45,7 @@
   font-size: 1rem;
  
 }
-/*
-.login_button:hover {
-  cursor: pointer;
-  background: linear-gradient(
-    90deg,
-    rgb(239, 200, 195) 0%,
-    rgb(241, 106, 10) 100%
-  );
-  transition: all 0.4s ease-out;
-}
-*/
+
 .link_container {
   display: flex;
   justify-content: center;

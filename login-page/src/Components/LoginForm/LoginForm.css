@@ -65,12 +65,7 @@
   justify-content: center;
   gap: 1.5rem;
 }
-/*
-.icon {
-  color: white;
-  cursor: pointer;
-}
-*/
+
 
 .error_msg {
   color: red;

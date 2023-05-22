@@ -7,7 +7,7 @@ body {
   sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(/Users/kelsie13/Documents/GitHub/login-page/login-page/public/bulletinboard.jpeg);
+  background-image: url("/Users/kelsie13/Documents/GitHub/login-page/about-page/public/bulletinboard.jpeg");
   min-height: 100vh;
   display: flex;
   justify-content: center;

@@ -7,7 +7,8 @@ body {
   sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("/Users/kelsie13/Documents/GitHub/login-page/about-page/public/bulletinboard.jpeg");
+  background-image: url("/Users/kelsie13/Documents/GitHub/login-page/about-page/public/SquishCollagecopy.jpg");
+  background-position: center center;
   min-height: 100vh;
   display: flex;
   justify-content: center;

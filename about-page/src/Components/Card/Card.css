@@ -7,6 +7,7 @@
   margin: 1rem;
 }
 
+
 @media only screen and (max-width: 620px) {
   .card {
     width: 90vw;

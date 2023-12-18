@@ -1,25 +1,27 @@
 .card {
-  width: 550px;
+  width: 900px;
   background-image:url("/Users/kelsie13/Documents/GitHub/login-page/about-page/public/logo4 copy.png");
   background-size: cover;
   background-position:  top center;
-  height: 700px;
-  border-radius: 1rem;
+  height: 900px;
+  /*border-radius: 1rem;
   padding: 2rem;
   margin: 1rem;
+  */
 }
 
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 900px) {
   .card {
-    width: 90vw;
-    padding-left: 1.5rem;
+    width: 100vw;
+   /* padding-left: 1.5rem;
     padding-right: 1.5rem;
+    */
   }
 }
 
-@media only screen and (max-height: 670px) {
+@media only screen and (max-height: 900px) {
   .card {
-    height: 650px;
+    height: 900px;
   }
 }

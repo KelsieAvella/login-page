@@ -1,6 +1,8 @@
 .card {
   width: 550px;
-  background-color: #3dbabc;
+  background-image:url("/Users/kelsie13/Documents/GitHub/login-page/about-page/public/logo4 copy.png");
+  background-size: cover;
+  background-position:  top center;
   height: 700px;
   border-radius: 1rem;
   padding: 2rem;

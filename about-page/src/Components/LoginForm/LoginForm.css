@@ -1,13 +1,12 @@
-.title {
-  
- background-image: "/Users/kelsie13/Documents/GitHub/login-page/about-page/public/SIGN-IN-12-8-2023.png";
- background-size: cover;
-}
+
 
 .subtitle {
   color: rgb(255, 251, 251);
-  text-align: center;
-  margin-bottom: 3rem;
+  text-align: center ;
+  margin-top: 15%;
+  margin-bottom: 6rem;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
 }
 
 .inputs_container {
